@@ -1,0 +1,28 @@
+.container {
+    justify-content: center;
+    display: flex;
+    flex: 1;
+    width: 900px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.row {
+    flex: 25%;
+    padding: 5px;
+}
+img{
+    border-radius: 10px;
+    max-width: 100%;
+    min-height: 100%;
+}
+img:hover {
+    opacity: 0.75;
+    border-radius: 0px;
+}
+footer{
+    float: right; 
+    padding-right: 30px; 
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
