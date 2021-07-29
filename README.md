@@ -1,3 +1,1 @@
-# HW1-VNIT
-bai tap ve nha 1
-Dau Cong Tuan Anh - VNIT - ITMO
+[Bai Tap 2](https://wad-itmo-vnit.github.io/HW1-2-Dau-Cong-Tuan-Anh/main.html)
